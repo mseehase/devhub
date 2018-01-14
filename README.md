@@ -1,5 +1,5 @@
 # SFDX  App
-Blubberfisch
+Blubberfisc
 ## Dev, Build and Test
 Want			
 
