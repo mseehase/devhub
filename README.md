@@ -1,8 +1,7 @@
 # SFDX  App
-Blubberfisc
-
+Blubberfisch
 ## Dev, Build and Test
-Want			
+Wants	
 
 ## Resources
 Money
